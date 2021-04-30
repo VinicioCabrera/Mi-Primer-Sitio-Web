@@ -1,0 +1,59 @@
+
+*{
+    margin: 10px;
+    padding: 10px;
+    border: 3px red dashed;
+}
+h1{
+    margin-right: 330px;
+    position: relative;
+    left: 100px;
+    bottom: 110px;
+    color: rgb(4, 187, 13);
+}
+body{
+    margin-top: 200px;
+    margin-bottom: 500px;
+    position: relative;
+    left: 200px;
+    bottom: 110px;
+    margin-right: 200px;
+    background-image: url("../Principal/Imagenes/fon.png");
+    background-color: rgba(0,0,0,0.8);
+    
+}
+head{
+    margin-bottom: 0px;
+}
+nav{
+    position: relative;
+    right: 240px;
+    margin-right: 500px;
+    bottom: 100px;
+    
+}
+footer{
+   position: relative;
+   top: 630px; 
+   right: 230px;
+   margin-right: -240px; ;
+   margin-top: 100px;
+}
+/*-------------------------------------------------------------*/
+a{
+    position: relative;
+    color: steelblue;
+    font-size: 10px;
+    right: 20px;
+    border-style: groove;
+    border-color: rgb(127, 209, 247);
+    border-radius: 5px;
+}
+/*a1{
+    color: steelblue;
+    border-style: groove;
+    font-size: 10px;
+    position: relative;
+    top: 60px;
+    right: 100px;
+}*/
