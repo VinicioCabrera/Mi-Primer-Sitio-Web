@@ -1,0 +1,40 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    border: 3px rgb(116, 21, 21) dashed;
+}
+h1{
+    margin-right: 330px;
+    position: relative;
+    left: 300px;
+    bottom: 110px;
+    color: rgb(4, 187, 13);
+}
+body{
+    margin-top: 200px;
+    margin-bottom: 500px;
+    position: relative;
+    left: 200px;
+    bottom: 110px;
+    margin-right: 200px;
+    background-image: url("../Principal/Imagenes/fon.png");
+    background-color: rgba(0,0,0,0.8);
+    
+}
+head{
+    margin-bottom: 0px;
+}
+nav{
+    position: relative;
+    right: 240px;
+    margin-right: 1010px;
+    bottom: 97px;
+    
+}
+footer{
+   position: relative;
+   top: 630px; 
+   right: 230px;
+   margin-right: -240px; ;
+   margin-top: 100px;
+}

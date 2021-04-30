@@ -7,7 +7,7 @@
 h1{
     margin-right: 330px;
     position: relative;
-    left: 100px;
+    left: 300px;
     bottom: 110px;
     color: rgb(4, 187, 13);
 }
@@ -28,8 +28,8 @@ head{
 nav{
     position: relative;
     right: 240px;
-    margin-right: 500px;
-    bottom: 100px;
+    margin-right: 1010px;
+    bottom: 97px;
     
 }
 footer{
@@ -40,20 +40,37 @@ footer{
    margin-top: 100px;
 }
 /*-------------------------------------------------------------*/
-a{
+
+nav > ul { 
+    line-height: 45px; 
+    padding-left: 5px;
+    margin-top: 50px;
+   }
+nav>ul>li{
     position: relative;
-    color: steelblue;
+    right: 18px;
+    bottom: 20px;
+    margin-right: -30px;
+    margin-top: -40px;
+}
+  
+   nav > ul > li > a:link   {
+    color: rgb(182, 180, 180);
+    text-decoration: none;
     font-size: 10px;
-    right: 20px;
     border-style: groove;
     border-color: rgb(127, 209, 247);
     border-radius: 5px;
-}
-/*a1{
-    color: steelblue;
-    border-style: groove;
-    font-size: 10px;
+   }
+   article{
+       position: relative;
+       bottom: 700px;
+   }
+   img{
+    width: 8cm;
+    height: 5cm;
+    border-radius: 20px;
     position: relative;
-    top: 60px;
-    right: 100px;
-}*/
+    left: 450px;
+    box-shadow: 0px 10px 25px rgb(151, 152, 156);  
+   }
