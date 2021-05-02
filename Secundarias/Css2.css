@@ -1,6 +1,55 @@
-*{
-    margin: 0px;
- 
+body{
+    background-color: rgba(0, 0, 0, 0.514);
+    background-image: url("../Principal/Imagenes/fon.png");
+}
+header{
+    position: relative;
+    padding: 10px;
+    background-image: url("../Principal/Imagenes/titulo.png");
+    text-align: center;
+    font-size: 25px;
+    bottom: 10px;     
+}
+
+
+nav>ul>a{
+    position: relative;
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 20px;
+    bottom: 20px;
+    color: floralwhite;
+}
+
+a:hover{
+    color: rgb(134, 37, 24);
+}
+form{
+    background-color: cadetblue;
+    position: relative;
+    border: 5px solid black;
+    border-collapse: collapse;
+    padding-bottom: 20px;
+    margin-right: 1100px;
+    left: 500px;
+    top: 70px;
+    
+}
+#Desc{
+margin-bottom: 20px;
+margin-right: 10px;
+padding: 50px;
+
+}
+
+#nom{
+
+    margin-right: 10px;
+    padding: 50px;
+    
+}#bot>p{
+    text-align: center;
+    
 }
 
 
