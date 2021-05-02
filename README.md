@@ -32,7 +32,11 @@ páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y
 
 ![Imagen10](https://user-images.githubusercontent.com/49033433/116831492-575a6f80-ab75-11eb-9bdb-875a46f07678.jpg)
 
+Un video en Youtube <iframe>
+  
+![Imagen12](https://user-images.githubusercontent.com/49033433/116831565-d354b780-ab75-11eb-83ea-ebcd5a638506.jpg)
+![Imagen11](https://user-images.githubusercontent.com/49033433/116831566-d3ed4e00-ab75-11eb-9481-03d35b4b245d.jpg)
 
-
+Un video con etiqueta <video>
 
 
