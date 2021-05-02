@@ -22,17 +22,20 @@ header{
 	border-radius: 10px;
 }
 
-
-
 nav ul{
 	list-style: none;
+	
+	
 }
 
 .menu > li{
 	position: relative;
 	margin: 10px 380px;
+	
 	display: inline-block;
 	right: 660px;
+	
+	
 }
 
 .menu > li > a{
@@ -82,26 +85,137 @@ nav ul{
 	visibility: visible;
 	opacity: 1;
 }
-footer{
+/*footer{
     background-image: url("../Principal/Imagenes/titulo.png");
     color: floralwhite;
     text-align: center;  
 }
 footer>a{
     color: floralwhite; 
-}
+}*/
 .articulo{
 	display: inline-block;
 }
-/*---ARTICULOS---*/
+/*--------------------1-----------------------*/
+/*---ARTICULO1---*/
 .primera .art1>h1 {
 	position: relative;
-	margin-left: 100px;
+	margin-left: 400px;
 	margin-top: 100px;
 	bottom: 60px;
 }
 .primera .art1{
 	margin-top: -550px;
-	margin-left: 550px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.primera .dertext1{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -380px;
+	font-size: 20px;
 }
 
+/*---ARTICULO2---*/
+.primera .art2>h2 {
+	position: relative;
+	margin-left: 400px;
+	margin-top: 10px;
+	bottom: 60px;
+}
+.primera .art2{
+	margin-top: 100px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.primera .dertext2{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -335px;
+	font-size: 20px;
+}
+/*---ARTICULO3---*/
+.primera .art3>h3 {
+	position: relative;
+	margin-left: 400px;
+	margin-top: 10px;
+	bottom: 60px;
+}
+.primera .art3{
+	margin-top: 100px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.primera .dertext3{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -335px;
+	font-size: 20px;
+}
+/*--------------------2-----------------------*/
+
+/*---ARTICULO1---*/
+.segunda .art1>h1 {
+	position: relative;
+	margin-left: 400px;
+	margin-top: 100px;
+	bottom: 60px;
+}
+.segunda .art1{
+	margin-top: 50px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.segunda .dertext1{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -360px;
+	font-size: 20px;
+}
+/*---ARTICULO2---*/
+.segunda .art2>h2 {
+	position: relative;
+	margin-left: 400px;
+	margin-top: 10px;
+	bottom: 60px;
+}
+.segunda .art2{
+	margin-top: 100px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.segunda .dertext2{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -335px;
+	font-size: 20px;
+}/*---ARTICULO3---*/
+.segunda .art3>h3 {
+	position: relative;
+	margin-left: 400px;
+	margin-top: 10px;
+	bottom: 60px;
+}
+.segunda .art3{
+	margin-top: 100px;
+	margin-left: 350px;
+	float: left;
+	font-size: 20px;
+
+}
+.segunda .dertext3{
+	width: 40%;
+	margin-left: 630px;
+	margin-top: -335px;
+	font-size: 20px;
+}
