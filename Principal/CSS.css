@@ -30,11 +30,12 @@ nav{
     padding-top: 50px;
     font-size: 25px;
     float: left; 
+    text-align:justify ;
 }
 .Initext2{
     clear: both;
     width: 45%;
-    
+    text-align:justify ;
 }
 
 #primero,#segundo{
@@ -55,11 +56,27 @@ img{
 }
 #primero>aside{
     margin-top: 20px;
+    margin-bottom: 50px;
+}
+.Initext>{
+    width: 20%;
+    margin-left: 100px;
+}
+.Initext>aside>img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#contenido>p{
+    position: relative;
+    top: 55px;
+    font-size: 20px;
+    
 }
 #segundo>aside{
     margin-top: 50px;
     margin-left: -50px;
 }
+
 .fintext{
     clear: both;
     font-size: 20px;
@@ -105,6 +122,42 @@ footer>a{
     margin-top: 100px;
     margin-bottom: 128px;
 }
+#segundo>article>div>p{
+   margin-top: 100px;
+}
+section>aside>img{
+width: 300px;
+margin-left: 150px;
+margin-top: 40px;
+}
+.nudo>img{
+   position: relative;
+   right: 10px;
+   bottom: 340px;
+   width: 500px;
+   
+}
+section>h3{
+    position: relative;
+    left: 100px;
+    bottom: 250px;
+    font-size: 30px;
+}
+.Initext{
+    font-size: 20px;
+    float: left;
+}
+.textnudo{
+padding-left: 700px;
+margin-left: 80px;
+position: relative;
+bottom: 250px;
+width: 45%;
+text-align: justify;
+font-size: 20px;
+    
+}
+
 
 
 
