@@ -65,3 +65,10 @@ Se pide utilizar, en al menos una página HTML, un diseño a dos columnas con ca
 
 ![Imagen22](https://user-images.githubusercontent.com/49033433/116831839-5f1b1380-ab77-11eb-843a-e5f145cb3199.jpg)
 ![Imagen23](https://user-images.githubusercontent.com/49033433/116831845-65a98b00-ab77-11eb-8a89-35c7eaaeaeed.jpg)
+
+![Imagen24](https://user-images.githubusercontent.com/49033433/116831883-ad301700-ab77-11eb-8ad8-958387b2036e.jpg)
+![Imagen25](https://user-images.githubusercontent.com/49033433/116831884-af927100-ab77-11eb-8068-98de7fa99cc0.jpg)
+
+De igual manera, se pide crear una nueva página HTML, en donde, se muestre un formulario de contacto o crear cuenta que tenga campos como: nombre, mensaje y botón para enviar. Como se muestra en la Figura 4.  
+
+![Imagen26](https://user-images.githubusercontent.com/49033433/116831915-cf299980-ab77-11eb-913b-443fda42e40d.jpg)
