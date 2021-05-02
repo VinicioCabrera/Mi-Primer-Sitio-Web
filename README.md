@@ -17,3 +17,21 @@ Todas las páginas *.html deben tener una etiqueta <header> la cuál, deberá co
 
 ![Imagen5](https://user-images.githubusercontent.com/49033433/116831390-a94ec580-ab74-11eb-8e62-095d80e2b973.jpg)
 ![Imagen6](https://user-images.githubusercontent.com/49033433/116831394-abb11f80-ab74-11eb-8688-5dfb1c4ac427.jpg)
+
+Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá tener la información del estudiante como nombres completos, organización, correo (usar hipervínculo, mailto), teléfono (usar hipervínculo, tel), además deberá tener el símbolo de copyright junto a la leyenda de “Todos los derechos reservados”. Por ejemplo, © Todos los derechos reservados  
+
+![Imagen7](https://user-images.githubusercontent.com/49033433/116831432-fc287d00-ab74-11eb-9fff-dc2acdc49b82.jpg)
+
+páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y dos <aside>.  
+  
+![Imagen8](https://user-images.githubusercontent.com/49033433/116831449-16faf180-ab75-11eb-8671-f52c228a73d2.png)
+![Imagen9](https://user-images.githubusercontent.com/49033433/116831452-195d4b80-ab75-11eb-9414-58d1ccd33a2b.png)
+
+#TABLA
+
+![Imagen10](https://user-images.githubusercontent.com/49033433/116831492-575a6f80-ab75-11eb-9bdb-875a46f07678.jpg)
+
+
+
+
+
