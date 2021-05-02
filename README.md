@@ -25,9 +25,10 @@ Todas las páginas *.html deben tener una etiqueta <footer> la cuál, deberá te
 páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y dos <aside>.  
   
 ![Imagen8](https://user-images.githubusercontent.com/49033433/116831449-16faf180-ab75-11eb-8671-f52c228a73d2.png)
+
 ![Imagen9](https://user-images.githubusercontent.com/49033433/116831452-195d4b80-ab75-11eb-9414-58d1ccd33a2b.png)
 
-#TABLA
+# TABLA
 
 ![Imagen10](https://user-images.githubusercontent.com/49033433/116831492-575a6f80-ab75-11eb-9bdb-875a46f07678.jpg)
 
