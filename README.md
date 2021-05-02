@@ -57,3 +57,11 @@ Tener al menos cinco etiquetas de texto que se encuentran en la figura 116 del t
 ![Imagen19](https://user-images.githubusercontent.com/49033433/116831743-bec4ef00-ab76-11eb-8af9-789d8c781885.jpg)
 # Imagenes en una carpeta
 ![Imagen20](https://user-images.githubusercontent.com/49033433/116831779-f469d800-ab76-11eb-938d-3e1d508506e7.jpg)
+# DISEÑO CSS
+
+![Imagen21](https://user-images.githubusercontent.com/49033433/116831814-43177200-ab77-11eb-81ad-166d39fa4371.jpg)
+
+Se pide utilizar, en al menos una página HTML, un diseño a dos columnas con cabecera y pie de página, como el que se muestra en la Figura 2. Así, como también se recomienda utilizar, en al menos una página HTML, un diseño a tres columnas con cabecera y pie de página como se muestra en la Figura 3. En ambos casos se pide tomar como base la pagina home.  
+
+![Imagen22](https://user-images.githubusercontent.com/49033433/116831839-5f1b1380-ab77-11eb-843a-e5f145cb3199.jpg)
+![Imagen23](https://user-images.githubusercontent.com/49033433/116831845-65a98b00-ab77-11eb-8a89-35c7eaaeaeed.jpg)
