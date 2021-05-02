@@ -1,3 +1,107 @@
-.menu li a:hover + ul, .menu .submenu:hover{
-    display: block;
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
 }
+
+body{
+	background-color: rgba(49, 52, 80, 0.658);
+}
+header{
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+}
+#logo>img{
+    width: 60%;
+    height: 150px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+	border-radius: 10px;
+}
+
+
+
+nav ul{
+	list-style: none;
+}
+
+.menu > li{
+	position: relative;
+	margin: 10px 380px;
+	display: inline-block;
+	right: 660px;
+}
+
+.menu > li > a{
+	display: block;
+	padding: 15px 20px;
+	color:springgreen;
+	font-family: 'Open sans';
+	text-decoration: none;
+}
+
+.menu li a:hover{
+	color: #ffffff;
+	
+}
+
+/* Submenu*/
+
+.submenu{
+	position: absolute;
+	visibility: hidden;
+	width: 150%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+	
+}
+
+.submenu li {
+	position: relative;
+	right:-160px;
+	bottom: 48px;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	margin-right: 100px;
+	background-color: rgba(0, 0, 0, 0.178);
+}
+
+.submenu li a{
+	display: block;
+	padding: 10px;
+	color:rgba(0, 0, 0, 0.747);
+	font-family: 'Open sans';
+	text-decoration: none;
+}
+
+.menu li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+}
+footer{
+    background-image: url("../Principal/Imagenes/titulo.png");
+    color: floralwhite;
+    text-align: center;  
+}
+footer>a{
+    color: floralwhite; 
+}
+.articulo{
+	display: inline-block;
+}
+/*---ARTICULOS---*/
+.primera .art1>h1 {
+	position: relative;
+	margin-left: 100px;
+	margin-top: 100px;
+	bottom: 60px;
+}
+.primera .art1{
+	margin-top: -550px;
+	margin-left: 550px;
+}
+

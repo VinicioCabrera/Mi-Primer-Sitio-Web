@@ -1,0 +1,94 @@
+img{
+    width: 45%;
+    margin-left:20px;
+    border-radius: 10px;
+    box-shadow: 0px 10px 25px black;
+
+}
+body{
+    background-color: rgba(49, 52, 80, 0.658);
+    background-image: url("../Principal/Imagenes/fon.png");
+}
+header{
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+}
+#menuizq li a{
+
+    text-decoration: none;
+    padding: 10px;
+    color: lightgreen;
+    
+    
+ }
+ #menuizq>li>a:hover{
+     color: rgb(255, 255, 255);
+ }
+#menuizq li {
+    
+    padding: 10px;
+    
+}
+#menuizq {
+    position: relative;
+    float: left;
+    list-style: none;
+    top: 150px;
+}
+.Initext{
+    width: 80%;
+    padding-left: 280px;
+    font-size: 25px;
+    float: left; 
+    text-align:justify ;
+}
+.Initext> aside{
+    position: relative;
+    padding-left: 190px;
+    width: 100%;
+    bottom: 250px;
+}
+.Initext> p , li{
+    position: relative;
+    bottom: 100px;
+}
+.Initext2{
+    width: 80%;
+    padding-left: 280px;
+    
+    padding-top: 50px;
+    font-size: 25px;
+    
+    text-align:justify ;
+}
+.Initext2> aside {
+    position: relative;
+    left: 200px;
+    width: 100%;
+    top: 70px;
+}
+
+.Initext2> p{
+    position: relative;
+    top: 100px;
+}
+.Initext2 #tit1{
+    padding-left: 200px;
+    width: 100%;
+    position: relative;
+    top: 850px;
+}
+video{
+    position: relative;
+    top: 50px;
+    left: 200px;
+    
+}
+footer{
+    margin-top: 50px;
+    
+    text-align: center;
+    color: seashell;
+    background-image: url("../Principal/Imagenes/titulo.png");
+}
