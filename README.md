@@ -6,7 +6,7 @@ Organizar un sitio web estático usando HTML5. El sitio web será informativo so
 
 •	Ocho páginas en formato *.html secundarias con temas relacionados a la página principal. Nota.- las páginas html, imágenes, audios, videos y otros recursos deberán estar organizadas en carpetas.   
 
-
+![Imagen2](https://user-images.githubusercontent.com/49033433/116831348-5117c380-ab74-11eb-9c8d-9a1d67e31713.jpg)
 
 •	Todas las páginas deberán tener un menú de navegación el cuál, permite al usuario moverse de una manera clara y sencilla entre todas las páginas HTML, tanto la principal como las secundarias.   
 
