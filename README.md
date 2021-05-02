@@ -32,11 +32,28 @@ páginas *.html deberán tener al menos dos etiquetas <section>, dos <article> y
 
 ![Imagen10](https://user-images.githubusercontent.com/49033433/116831492-575a6f80-ab75-11eb-9bdb-875a46f07678.jpg)
 
-Un video en Youtube <iframe>
+Un video en Youtube <iframe>.
   
 ![Imagen12](https://user-images.githubusercontent.com/49033433/116831565-d354b780-ab75-11eb-83ea-ebcd5a638506.jpg)
 ![Imagen11](https://user-images.githubusercontent.com/49033433/116831566-d3ed4e00-ab75-11eb-9481-03d35b4b245d.jpg)
 
-Un video con etiqueta <video>
+Un video con etiqueta <video>.
 
+![Imagen13](https://user-images.githubusercontent.com/49033433/116831601-072fdd00-ab76-11eb-9696-e3b2b315da64.jpg)
+![Imagen14](https://user-images.githubusercontent.com/49033433/116831602-08f9a080-ab76-11eb-8b19-72bf3ce64b53.jpg)
 
+Un audio con la etiqueta <audio>.  
+  
+![Imagen15](https://user-images.githubusercontent.com/49033433/116831638-35152180-ab76-11eb-88e7-b9a7c0c33ee4.jpg)
+![Imagen16](https://user-images.githubusercontent.com/49033433/116831640-36464e80-ab76-11eb-8bdd-91421aca0dc1.jpg)
+
+Manejar listas ordenadas o desordenadas con al menos cinco ítems.  
+
+![Imagen17](https://user-images.githubusercontent.com/49033433/116831692-74dc0900-ab76-11eb-92d3-60553ac7dfeb.jpg)
+![Imagen18](https://user-images.githubusercontent.com/49033433/116831695-773e6300-ab76-11eb-8fe2-e7d3ae48bfb5.jpg)
+
+Tener al menos cinco etiquetas de texto que se encuentran en la figura 116 del texto guía de la asignatura
+
+![Imagen19](https://user-images.githubusercontent.com/49033433/116831743-bec4ef00-ab76-11eb-8af9-789d8c781885.jpg)
+# Imagenes en una carpeta
+![Imagen20](https://user-images.githubusercontent.com/49033433/116831779-f469d800-ab76-11eb-938d-3e1d508506e7.jpg)
