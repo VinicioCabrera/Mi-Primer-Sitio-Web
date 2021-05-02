@@ -36,16 +36,25 @@ nav{
     clear: both;
     width: 45%;
     text-align:justify ;
+    float: left;
+    font-size: 20px;
+    padding-left: 25px;
 }
 
 #primero,#segundo{
     width: 100%;
     display: block;
 }
-.Initext2{
-    float: left;
-    font-size: 20px;
-    padding-left: 25px;
+
+.Initext3{
+    clear: both;
+    width: 45%;
+    text-align:justify ;
+    position: relative;
+    margin-left: 10px;
+    position: relative;
+    bottom: 350px;
+    
 }
 img{
     width: 45%;
@@ -157,6 +166,26 @@ text-align: justify;
 font-size: 20px;
     
 }
+section>video{
+    width: 50%;
+    height: 500px;
+    margin-left: 350px;
+    margin-bottom: 20px;
+}
+ #tabla{
+  margin-left: 20px;
+  position: relative;
+  bottom: 150px;
+  ;
+  color: rgb(0, 0, 0);
+}
+#tabla>table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+}
+
 
 
 
