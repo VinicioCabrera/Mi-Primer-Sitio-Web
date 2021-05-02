@@ -14,3 +14,6 @@ Organizar un sitio web estático usando HTML5. El sitio web será informativo so
 ![Imagen4](https://user-images.githubusercontent.com/49033433/116831329-26c60600-ab74-11eb-8651-80e09b417f9f.jpg)
 
 Todas las páginas *.html deben tener una etiqueta <header> la cuál, deberá contener una imagen (logo) relacionada al tema elegido.   
+
+![Imagen5](https://user-images.githubusercontent.com/49033433/116831390-a94ec580-ab74-11eb-8e62-095d80e2b973.jpg)
+![Imagen6](https://user-images.githubusercontent.com/49033433/116831394-abb11f80-ab74-11eb-8688-5dfb1c4ac427.jpg)
